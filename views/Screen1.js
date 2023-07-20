@@ -7,7 +7,7 @@ import Navbar from './Navbar';
 
 
 const Screen1 = ({navigation}) => {
-const accessKey = '5bYa6uTXXwhlk76pY17jLTVCYKW-x27eH6WhZn2GxQU'
+const accessKey = 'add your key '
 
 const [images,setImages] = useState([]);
 
